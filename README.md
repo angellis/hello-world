@@ -1,3 +1,5 @@
 # hello-world
 Just another repository
-Test 2 of changes. 
+
+Testing changes, pulls and merge conflicts to solve issues. 
+
